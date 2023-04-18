@@ -1,8 +1,8 @@
 <template>
-  <div class="title">
+  <div class="title text-titleColor flex items-center content-center pb-[2rem]">
     <h1>Pixabay Stock</h1>
   </div> 
-   <div class="content">
+   <div class="content items-center">
     <SearchImages></SearchImages>
   </div>
 </template>
